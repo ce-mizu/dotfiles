@@ -61,7 +61,7 @@
   defaultBranch = master
 [user]
 	email = eduardomizumoto@gmail.com
-	name = Carlos Mizumoto
+	name = carlos mizumoto
 [credential "https://github.com"]
 	helper = 
 	helper = !/usr/bin/gh auth git-credential
